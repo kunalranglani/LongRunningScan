@@ -5,3 +5,7 @@
 /.vs
 /SyntheticSecurityLoad/SyntheticSecurityLoad/obj
 /SyntheticSecurityLoad/SyntheticSecurityLoad/bin/Debug/net8.0
+/SyntheticSecurityLoad/.vs/SyntheticSecurityLoad.slnx/FileContentIndex
+/defender-aiscan*
+/*.sarif
+/SyntheticSecurityLoad/.vs/SyntheticSecurityLoad.slnx/v18
